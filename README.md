@@ -1,1 +1,3 @@
-# My First Git Project we will commit this file to the git repository
+# My First Git Project
+This is my first commit.
+Now I am adding a second line to test commits.
